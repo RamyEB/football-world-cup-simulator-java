@@ -9,9 +9,9 @@ Simulation d’une compétition entre 16 équipes nationales grâce
 
 ## Auteurs
 
-* **Parrinello Théo** [@tparrine] - RVR
-* **El behedy Ramy** [@SneakyRamy] - CHEF
-* **Ducly Hugo** [@HugoD98] - MOE
-* **Chenet Dorian** [@Mechanizen] - MOE
-* **Delacoux Antoine** [@DeAntoine] - QA
-* **Camara Almamy** [@Almamy78593] - MOA
+* **Parrinello Théo** - RVR
+* **El behedy Ramy** - CHEF
+* **Ducly Hugo** - MOE
+* **Chenet Dorian** - MOE
+* **Delacoux Antoine** - QA
+* **Camara Almamy** - MOA
