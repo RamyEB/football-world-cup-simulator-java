@@ -9,8 +9,8 @@ Simulation d’une compétition entre 16 équipes nationales grâce
 
 ## Auteurs
 
-* **Parrinello Théo** - RVR
 * **El behedy Ramy** - CHEF
+* **Parrinello Théo** - RVR
 * **Ducly Hugo** - MOE
 * **Chenet Dorian** - MOE
 * **Delacoux Antoine** - QA
